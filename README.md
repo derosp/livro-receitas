@@ -1,2 +1,2 @@
-# livro-receitas
+##livro-receitas
 Meu livro de receitas :)
